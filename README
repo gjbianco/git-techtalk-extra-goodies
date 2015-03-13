@@ -1,0 +1,22 @@
+git init techtalk extra goodies
+===========
+
+Guy Bianco IV
+@gjbiancoiv
+
+The HTML file (slides-git-init-final.html) contains the entire slide deck. All you need to do is open it with a browser and reveal.js should take care of everything (note that there is left/right movement as well as up/down).
+
+The slides use reveal.js. They were created and hosted on slides.com and can be found at:
+
+http://slides.com/gjbiancoiv/git-init
+
+I have also included my own .gitconfig and .gitignore_global. Note that these should both go in your home directory and you will need to prepend the '.'. I removed this so they are not hidden by default on most systems. Also, be sure to update your name and email!
+
+The .gitignore_global that I have included also ignores a couple of extra things like vim's .swp files and some of Sublime Text's files.
+
+Don't forget that you can find the Git Pro book completely free and available to read or download straight from the git official site below. I cannot recommend it enough. Did I mention it's FREE?
+
+http://git-scm.com/book/en/v2
+
+
+Thanks to all those who joined us and feel free to reach out to me if you have any questions/comments/suggestions!

@@ -1,0 +1,15 @@
+[user]
+	name = YOURNAME
+	email = YOUREMAIL
+[core]
+	excludesfile = ~/.gitignore_global
+[alias]
+	st = status
+	ci = commit
+	br = branch
+	co = checkout
+	graph-simple = log --graph --simplify-by-decoration --pretty=format:'%d' --all	
+	graph = log --graph
+	cp = cherry-pick
+[merge]
+	tool = meld
